@@ -118,360 +118,358 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AskAnExpertPlaceholderText" xml:space="preserve">
-    <value>Type your detailed question and supporting details here (500 characters max)</value>
-    <comment>Ask an expert placeholder text.</comment>
+    <value>Scrivi qui la tua domanda dettagliata e i dettagli di supporto (massimo 500 caratteri)</value>
+    <comment>Chiedi un testo segnaposto esperto.</comment>
   </data>
   <data name="AskAnExpertText1" xml:space="preserve">
-    <value>Ask an expert</value>
-    <comment>Title of the ask an expert card.</comment>
+    <value>Consulta un esperto</value>
+    <comment>Titolo della domanda di una persona esperta.</comment>
   </data>
   <data name="AskAnExpertText2" xml:space="preserve">
-    <value>...If my answer isn't satisfactory... I'll connect you to an expert.</value>
-    <comment>Helps the user in understanding there is an expert team to connect to.</comment>
+    <value>... Se la mia risposta non è soddisfacente ... Ti collegherò con un esperto.</value>
+    <comment>Aiuta utente a capire che esiste un team di esperti a cui connettersi.</comment>
   </data>
   <data name="FeedbackText1" xml:space="preserve">
-    <value>Tell my team of experts how I'm doing so they can help me improve.</value>
-    <comment>Text suggests that user is invited to share his feedback on his experience using bot.</comment>
+    <value>Dirò al mio team di esperti come sto facendo in modo che possano aiutarmi a migliorare.</value>
+     <comment>Il testo suggerisce che l utente è invitato a condividere il suo feedback sulla sua esperienza con il bot.</comment>
   </data>
   <data name="FunctionCardText1" xml:space="preserve">
-    <value>Ask a question</value>
-    <comment>Explains what bot does and possible questions.</comment>
+    <value>Invia una domanda</value>
+    <comment>Spiega cosa fa il bot e possibili domande.</comment>
   </data>
   <data name="FunctionCardText2" xml:space="preserve">
-    <value>You can ask me a question by typing it in the chat box below  I'll try my best to answer it...</value>
-    <comment>Suggests the user to ask question.</comment>
+    <value>Puoi farmi una domanda digitandola nella finestra di chat qui sotto Farò del mio meglio per risponderti...</value>
+    <comment>Suggerisce utente di porre una domanda.</comment>
   </data>
   <data name="ShareFeedbackButtonText" xml:space="preserve">
-    <value>Share feedback</value>
-    <comment>Button text for share feedback show card in QnA response card.</comment>
+    <value>Condividi feedback</value>
+     <comment>Testo del pulsante per condividere la scheda mostra feedback nella scheda di risposta QnA.</comment>
   </data>
   <data name="DescriptionText" xml:space="preserve">
-    <value>Description</value>
-    <comment>Description text is the label of description text box.</comment>
+    <value>Descrizione</value>
+    <comment>Il testo della descrizione ed etichetta della casella di testo della descrizione.</comment>
   </data>
   <data name="FeedbackDescriptionPlaceholderText" xml:space="preserve">
-    <value>Enter your feedback and supporting details here (500 characters max)</value>
-    <comment>Placeholder label where the user enters feedback in the text box.</comment>
+    <value>Inserisci qui il tuo feedback e i dettagli di supporto (massimo 500 caratteri)</value>
+     <comment>Etichetta segnaposto in cui l utente inserisce feedback nella casella di testo.</comment>
   </data>
   <data name="FeedbackHeaderText" xml:space="preserve">
-    <value>Share app feedback</value>
-    <comment>Share feedback card title text- bot menu command.</comment>
+    <value>Condividi feedback sulle app</value>
+     <comment>Condividi il comando di menu testo-bot titolo scheda feedback.</comment>
   </data>
   <data name="QuestionLineText" xml:space="preserve">
-    <value>Here is what I have found for your request</value>
-    <comment>Shows user requested question.</comment>
+    <value>Ecco cosa ho trovato per la tua richiesta</value>
+     <comment>Mostra la domanda richiesta dall utente.</comment>
   </data>
   <data name="StatusFactTitle" xml:space="preserve">
-    <value>Status: </value>
-    <comment>Status one of the available fact set in notification cards.</comment>
+    <value>Stato:</value>
+     <comment>Stato uno dei fatti disponibili impostato nelle schede di notifica.</comment>
   </data>
   <data name="AskAnExpertButtonText" xml:space="preserve">
-    <value>Ask an expert</value>
-    <comment>Action button which invokes ask an expert show card.</comment>
+    <value>Consulta un esperto</value>
+     <comment>Pulsante di azione che richiama chiedi a uno show card esperto.</comment>
   </data>
   <data name="ThankYouTextContent" xml:space="preserve">
-    <value>Thanks for your feedback! I've shared it with the experts. This helps me learn and improve.</value>
-    <comment>The content for the thank you adaptive card which is shown whenever user submits feedback on the app or on a response that is generated by QnA service.</comment>
+    <value>Grazie per il tuo feedback! L'ho condiviso con gli esperti. Questo mi aiuta a imparare e migliorare.</value>
+     <comment>Il contenuto della scheda adattiva di ringraziamento che viene mostrato ogni volta che l utente invia un feedback sull app o su una risposta generata dal servizio QnA.</comment>
   </data>
   <data name="ChatTextButton" xml:space="preserve">
-    <value>Chat with {0}</value>
-    <comment>Ability to chat directly with end user from SME channel.</comment>
+    <value>Chat con {0}</value>
+    <comment>Possibilità di chattare direttamente con l utente finale dal canale PMI.</comment>
   </data>
   <data name="NotificationCardContent" xml:space="preserve">
-    <value>I've shared your question with the related experts. They'll respond to you directly with a chat message.</value>
-    <comment>Confirmation message to the user upon asking question to the expert.</comment>
+    <value>Ho condiviso la tua domanda con gli esperti correlati. Ti risponderanno direttamente con un messaggio in chat.</value>
+     <comment>Messaggio di conferma all utente dopo aver posto la domanda all esperto.</comment>
   </data>
   <data name="NotificationCardTitleText" xml:space="preserve">
-    <value>Notification</value>
-    <comment>Confirmation card header text.</comment>
+    <value>Notifica</value>
+    <comment>Testo dell intestazione della carta di conferma.</comment>
   </data>
   <data name="TeamChatHeaderText" xml:space="preserve">
-    <value>Initiate chat with end users</value>
-    <comment>Team carousel chat card header-title of the chat card.</comment>
+    <value>Inizia la chat con gli utenti finali</value>
+     <comment>Intestazione-titolo della chat card della squadra carosello della chat card.</comment>
   </data>
   <data name="TeamChatContent" xml:space="preserve">
-    <value>Click chat with user button to initiate a direct chat.</value>
-    <comment>Team carousel chat card content- SME team members can chat directly with the end users.</comment>
+    <value>Fare clic su chat con il pulsante utente per avviare una chat diretta.</value>
+    <comment>Contenuto della chat card del team carosello: i membri del team PMI possono chattare direttamente con gli utenti finali.</comment>
   </data>
   <data name="TeamNotificationHeaderText" xml:space="preserve">
-    <value>Receive notifications from end users</value>
-    <comment>Team carousel function card content- title of the chat card.</comment>
+    <value>Ricevi notifiche dagli utenti finali</value>
+    <comment>Contenuto della scheda funzione carosello della squadra - titolo della scheda chat.</comment>
   </data>
   <data name="TeamNotificationContent" xml:space="preserve">
-    <value>You can see what users need help with.</value>
-    <comment>Team carousel function card content- team can take the question from the end users through bot.</comment>
+    <value>Puoi vedere con cosa gli utenti hanno bisogno di aiuto.</value>
+    <comment>Contenuto della scheda funzione carosello del team: il team può rispondere alla domanda degli utenti finali tramite bot.</comment>
   </data>
   <data name="TeamTicketSystemHeaderText" xml:space="preserve">
-    <value>Manage queries</value>
-    <comment>Title of the query carousel card- ticket system.</comment>
+    <value>Gestisci query</value>
+    <comment>Titolo del sistema di query carousel card-ticket.</comment>
   </data>
   <data name="TeamTicketSystemContent" xml:space="preserve">
-    <value>Mark requests assigned or closed to keep track of queries.</value>
-    <comment>Team carousel query card content- team can keep track of the user request.</comment>
+    <value>Contrassegnare le richieste assegnate o chiuse per tenere traccia delle query.</value>
+    <comment>Contenuto della scheda di interrogazione carosello del team: il team può tenere traccia della richiesta dell utente.</comment>
   </data>
   <data name="TakeATeamTourButtonText" xml:space="preserve">
-    <value>Team tour</value>
-    <comment>Action button which gives tour for the team on bot Functionalities.</comment>
+    <value>Tour del team</value>
+    <comment>Pulsante di azione che offre tour per il team sulle funzionalità dei bot.</comment>
   </data>
   <data name="WelcomeTeamCardContent" xml:space="preserve">
-    <value>Hello team,   
-
-I am your friendly Q&amp;A bot that helps you provide support to people who interact with me and need more assistance.</value>
-    <comment>Welcome message when bot is added to a new team.</comment>
+    <value>Ciao team, sono il tuo HELP che ti aiuta a fornire supporto alle persone che interagiscono con me e hanno bisogno di più assistenza.</value>
+    <comment>Messaggio di benvenuto quando il bot viene aggiunto a una nuova squadra.</comment>
   </data>
   <data name="CustomMessage" xml:space="preserve">
-    <value>I couldn't find anything apt for your request. Do you want me to ask an expert?</value>
-    <comment>Message when user asks random question to the bot.</comment>
+    <value>Non sono riuscito a trovare nulla di adatto alla tua richiesta. Vuoi che chieda a un esperto ?</value>
+    <comment>Messaggio quando l utente pone una domanda casuale al bot.</comment>
   </data>
   <data name="QuestionAskedFactTitle" xml:space="preserve">
-    <value>Question asked:</value>
-    <comment>The fact set title for the question asked in the SME Ticket card.</comment>
+    <value>Domanda posta:</value>
+    <comment>Il fatto ha fissato il titolo della domanda posta nella scheda Biglietto PMI.</comment>
   </data>
   <data name="SubmitButtonText" xml:space="preserve">
-    <value>Submit</value>
-    <comment>Button to submit user activity.</comment>
+    <value>Invia</value>
+    <comment>Pulsante per inviare l attività dell utente.</comment>
   </data>
   <data name="QuestionForExpertSubHeaderText" xml:space="preserve">
-    <value>**{0}** is requesting support.</value>
-    <comment>Text says that user is asking a question to the expert, {0} placeholder holds the name of the person.</comment>
+    <value>**{0}** richiede supporto.</value>
+    <comment>Il testo dice che l utente sta ponendo una domanda all esperto, {0} il segnaposto detiene il nome della persona.</comment>
   </data>
   <data name="Resultsfeedbackdetails" xml:space="preserve">
-    <value>Enter feedback for above result</value>
-    <comment>Label for share feedback show card where user enters feedback on the displayed results in QnA response card.</comment>
+    <value>Inserisci il feedback per il risultato sopra</value>
+    <comment>Etichetta per la scheda mostra feedback di condivisione in cui l utente inserisce feedback sui risultati visualizzati nella scheda di risposta QnA.</comment>
   </data>
   <data name="TeamCustomMessage" xml:space="preserve">
-    <value>Hello, I don't support bot commands in the Team. Here is a quick tour of how I can help.</value>
-    <comment>When SME team member asks bot a questions- a message appears saying that team member is supposed to install the bot in personal scope.</comment>
+    <value>Ciao, non supporto i comandi bot nel Team. Ecco un breve tour su come posso aiutarti.</value>
+    <comment>Quando un membro del team PMI fa una domanda al bot, appare un messaggio che dice che il membro del team dovrebbe installare il bot in ambito personale.</comment>
   </data>
   <data name="AssignStatusTitle" xml:space="preserve">
-    <value>Assign to me</value>
-    <comment>Status of the user ticket- assign - for the dropdown</comment>
+    <value>Assegna all'utente corrente</value>
+    <comment>Stato del ticket utente - Assegna - per il menu a discesa!</comment>
   </data>
   <data name="CloseStatusText" xml:space="preserve">
-    <value>Close</value>
-    <comment>Status of the user Ticket- Close</comment>
+    <value>Chiudi</value>
+    <comment>Stato dell utente Ticket-Close!</comment>
   </data>
   <data name="ChangeStatusButtonText" xml:space="preserve">
-    <value>Change status</value>
-    <comment>Text on change status button.</comment>
+    <value>Cambia stato</value>
+    <comment>Testo sul pulsante cambia stato.</comment>
   </data>
   <data name="ResponseHeaderText" xml:space="preserve">
-    <value>Here is what I found:</value>
-    <comment>Response header-letting the user know that a response is generated to their request from QnA Maker.</comment>
+    <value>Ecco cosa ho trovato :</value>
+    <comment>Intestazione di risposta che consente all utente di sapere che viene generata una risposta alla sua richiesta da QnA Maker.</comment>
   </data>
   <data name="ClosedFactTitle" xml:space="preserve">
-    <value>Closed: </value>
-    <comment>Closed fact title is one of the available fact set.</comment>
+    <value>Chiuso</value>
+    <comment>Il titolo dei fatti chiusi è uno dei set di fatti disponibili.</comment>
   </data>
   <data name="DateCreatedDisplayFactTitle" xml:space="preserve">
-    <value>Created: </value>
-    <comment>Created: one of the available fact set in notification cards- created is the title for created date value.</comment>
+    <value>Data di creazione:</value>
+    <comment>Creato: uno dei set di fatti disponibili nelle schede di notifica creato è il titolo per il valore della data creata.</comment>
   </data>
   <data name="ShowCardTitleText" xml:space="preserve">
-    <value>Enter short title here (50 characters max)</value>
-    <comment>Label text where users enters title for his question or feedback. </comment>
+    <value>Inserisci qui il titolo breve (massimo 50 caratteri)</value>
+    <comment>Etichetta il testo in cui gli utenti inseriscono il titolo per la sua domanda o feedback. !</comment>
   </data>
   <data name="KBEntryFactTitle" xml:space="preserve">
-    <value>Knowledge base entry:</value>
-    <comment>Answer from the QnA Maker.</comment>
+    <value>Voce della knowledge base :</value>
+    <comment>Risposta di QnA Maker.</comment>
   </data>
   <data name="AppFeedbackText" xml:space="preserve">
-    <value>App feedback</value>
-    <comment>This text is used as title for app feedback type card.</comment>
+    <value>Feedback App</value>
+    <comment>Questo testo viene utilizzato come titolo per la scheda del tipo di feedback dell app.</comment>
   </data>
   <data name="MandatoryTitleFieldText" xml:space="preserve">
-    <value>Title field is mandatory</value>
-    <comment>Text that suggest users to fill mandatory fields.</comment>
+    <value>Il campo Titolo è obbligatorio</value>
+    <comment>Testo che suggerisce agli utenti di compilare campi obbligatori.</comment>
   </data>
   <data name="QuestionForExpertText" xml:space="preserve">
-    <value>Question for expert</value>
-    <comment>This text is used as title for question for expert type card.</comment>
+    <value>Domanda per esperti</value>
+    <comment>Questo testo viene utilizzato come titolo per la domanda per la scheda di tipo esperto.</comment>
   </data>
   <data name="ResultsFeedbackText" xml:space="preserve">
-    <value>Results feedback</value>
-    <comment>This text is used as title for results feedback card.</comment>
+    <value>Feedback sui risultati</value>
+    <comment>Questo testo viene utilizzato come titolo per la scheda di feedback dei risultati.</comment>
   </data>
   <data name="FeedbackAlertText" xml:space="preserve">
-    <value>**{0}** has shared the feedback</value>
-    <comment>Text in the SME feedback card, The placeholder {0} represents the name of the person sharing the feedback. The placeholder {1} represents the feedback type.</comment>
+    <value>**{0}** ha condiviso il feedback</value>
+    <comment>Testo nella scheda di feedback PMI, Il segnaposto {0} rappresenta il nome della persona che condivide il feedback. Il segnaposto {1} rappresenta il tipo di feedback.</comment>
   </data>
   <data name="ShareFeedbackTitleText" xml:space="preserve">
-    <value>Share app feedback</value>
-    <comment>Title text of share feedback user carousel card.</comment>
+    <value>Condividi feedback sulle app</value>
+    <comment>Testo del titolo della scheda carosello dell utente con feedback di condivisione.</comment>
   </data>
   <data name="AskAnExpertDisplayText" xml:space="preserve">
-    <value>Ask an expert</value>
-    <comment>Ask an expert display text: text sent to the bot when ask an expert button is clicked.</comment>
+    <value>Consulta un esperto</value>
+    <comment>Chiedi testo di visualizzazione esperto: testo inviato al bot quando si fa clic sul pulsante Chiedi a un esperto.</comment>
   </data>
   <data name="ShareFeedbackDisplayText" xml:space="preserve">
-    <value>Share feedback</value>
-    <comment>Share feedback display text: text sent to the bot when share feedback button is clicked.</comment>
+    <value>Condividi feedback</value>
+    <comment>Condividi testo visualizzazione feedback: testo inviato al bot quando si fa clic sul pulsante Condividi feedback.</comment>
   </data>
   <data name="OpenStatusTitle" xml:space="preserve">
-    <value>Unassigned</value>
-    <comment>Status value is open which is used in notification cards to both SME team and user.</comment>
+    <value>Non assegnato</value>
+    <comment>Il valore di stato è aperto e viene utilizzato nelle schede di notifica sia per il team PMI che per l utente.</comment>
   </data>
   <data name="AssignedToStatusValue" xml:space="preserve">
-    <value>Assigned to {0}</value>
-    <comment>"Assigned to" format string, {0} is the name of the assignee</comment>
+    <value>Assegnato a: {0}</value>
+    <comment>Stringa di formato &amp;quot;Assegnato a&amp;quot;, {0} è il nome dell assegnatario!</comment>
   </data>
   <data name="ClosedByStatusValue" xml:space="preserve">
-    <value>Closed by {0}</value>
-    <comment>"Closed" format string, {0} is the name of the user who closed the ticket</comment>
+    <value>Chiuso da: {0}</value>
+    <comment>Stringa di formato &amp;quot;Chiuso&amp;quot;, {0} è il nome dell utente che ha chiuso il ticket!</comment>
   </data>
   <data name="SMEAssignedStatus" xml:space="preserve">
-    <value>This request is now assigned. Assigned to {0}.</value>
-    <comment>Message posted to the thread when the ticket is assigned. {0} = name of SME who assigned the request.</comment>
+    <value>Questa richiesta è ora assegnata. Assegnato a {0}.</value>
+    <comment>Messaggio inviato al thread quando viene assegnato il ticket. {0} = nome della PMI che ha assegnato la richiesta.</comment>
   </data>
   <data name="SMEClosedStatus" xml:space="preserve">
-    <value>This request is now closed. Closed by {0}.</value>
-    <comment>Message posted to the thread when the ticket is closed. {0} = name of SME who closed the request.</comment>
+    <value>Questa richiesta è ora chiusa. Chiuso da {0}.</value>
+    <comment>Messaggio inviato al thread quando il ticket è chiuso. {0} = nome della PMI che ha chiuso la richiesta.</comment>
   </data>
   <data name="SMEOpenedStatus" xml:space="preserve">
-    <value>This request is now unassigned. Last updated by {0}. </value>
-    <comment>Message posted to the thread when the ticket is reopened. {0} = name of SME who reopened the request.</comment>
+    <value>Questa richiesta non è ora assegnata. Ultimo aggiornamento di {0}.</value>
+    <comment>Messaggio inviato al thread quando il ticket viene riaperto. {0} = nome della PMI che ha riaperto la richiesta.</comment>
   </data>
   <data name="NonApplicableString" xml:space="preserve">
     <value>N/A</value>
-    <comment>Not applicable is used in scenarios like- ask an expert or share app feedback bot menu command where there is no question and answer from QnA service and to reflect the same in respective fields N/A is used.</comment>
+    <comment>Non applicabile viene utilizzato in scenari come: chiedere a un esperto o condividere il comando del menu bot di feedback app in cui non vi sono domande e risposte dal servizio QnA e per riflettere lo stesso nei rispettivi campi N / A viene utilizzato.</comment>
   </data>
   <data name="AssignedTicketUserNotification" xml:space="preserve">
-    <value>Your question has been assigned to an expert. They'll respond to you directly with a chat message.</value>
-    <comment>Notification text sent to the user who opened a ticket, when the ticket is assigned to an expert.</comment>
+    <value>La tua domanda è stata assegnata a un esperto. Ti risponderanno direttamente con un messaggio in chat.</value>
+    <comment>Testo di notifica inviato all utente che ha aperto un ticket, quando il ticket viene assegnato a un esperto.</comment>
   </data>
   <data name="ClosedTicketUserNotification" xml:space="preserve">
-    <value>This request has been closed. Ask an expert again if you still need more assistance.</value>
-    <comment>Notification text sent to the user who opened a ticket, when the ticket is closed.</comment>
+    <value>Questa richiesta è stata chiusa. Chiedi nuovamente a un esperto se hai ancora bisogno di ulteriore assistenza.</value>
+    <comment>Testo di notifica inviato all utente che ha aperto un ticket quando il ticket è chiuso.</comment>
   </data>
   <data name="ReopenedTicketUserNotification" xml:space="preserve">
-    <value>Your request is open again. An expert will directly send you a chat message.</value>
-    <comment>Notification text sent to the user who opened a ticket, when the ticket is reopened.</comment>
+    <value>La tua richiesta è di nuovo aperta. Un esperto ti invierà direttamente un messaggio in chat.</value>
+    <comment>Testo di notifica inviato all utente che ha aperto un ticket quando il ticket viene riaperto.</comment>
   </data>
   <data name="SMEAttentionText" xml:space="preserve">
-    <value>Everyone there is a new request coming in, please see the details below:</value>
+    <value>Per tutti coloro che hanno ricevuto una nuova richiesta, vedere i dettagli di seguito :</value>
   </data>
   <data name="GoToOriginalThreadButtonText" xml:space="preserve">
-    <value>Go to original thread</value>
-    <comment>Go to original thread button available on messaging extension card.</comment>
+    <value>Vai alla discussione originale</value>
+    <comment>Vai al pulsante thread originale disponibile sulla scheda di estensione della messaggistica.</comment>
   </data>
   <data name="NonSMEErrorText" xml:space="preserve">
-    <value>You don't have access to this app. Please contact your IT admin.</value>
-    <comment>Error message when a user of non-SME team tries to access messaging extension application</comment>
+    <value>Non hai accesso a questa app. Si prega di contattare Amministratore IT.</value>
+    <comment>Messaggio di errore quando un utente del team non PMI tenta di accedere all applicazione di estensione di messaggistica!</comment>
   </data>
   <data name="AssignedUserNotificationStatus" xml:space="preserve">
-    <value>Assigned</value>
-    <comment>The status value for the user notification when a ticket is assigned to an expert</comment>
+    <value>Assegnato</value>
+    <comment>Il valore dello stato per la notifica dell utente quando un ticket viene assegnato a un esperto!</comment>
   </data>
   <data name="ClosedUserNotificationStatus" xml:space="preserve">
-    <value>Closed</value>
-    <comment>The status value for the user notification when a ticket is closed by an expert.</comment>
+    <value>Chiuso</value>
+    <comment>Il valore dello stato per la notifica dell utente quando un ticket viene chiuso da un esperto.</comment>
   </data>
   <data name="CloseStatusTitle" xml:space="preserve">
-    <value>Close</value>
-    <comment>The dropdown text for closing a ticket</comment>
+    <value>Chiudi</value>
+    <comment>Il testo a discesa per chiudere un biglietto!</comment>
   </data>
   <data name="UnassignedStatusValue" xml:space="preserve">
-    <value>Unassigned</value>
-    <comment>The status for the SME ticket which is default</comment>
+    <value>Non assegnato</value>
+    <comment>Lo stato del ticket PMI che è predefinito!</comment>
   </data>
   <data name="UnassignedUserNotificationStatus" xml:space="preserve">
-    <value>Unassigned</value>
-    <comment>The status value for the user notification when a ticket is unassigned</comment>
+    <value>Non assegnato</value>
+    <comment>Il valore dello stato per la notifica dell utente quando un ticket non è assegnato!</comment>
   </data>
   <data name="UnassignStatusTitle" xml:space="preserve">
-    <value>Unassign</value>
-    <comment>The dropdown text for unassigning a ticket</comment>
+    <value>Annulla assegnazione</value>
+    <comment>Il testo a discesa per annullare l assegnazione di un ticket!</comment>
   </data>
   <data name="ReassignStatusTitle" xml:space="preserve">
-    <value>Reassign to me</value>
-    <comment>The dropdown text for reassigning a ticket that has been previously closed.</comment>
+    <value>Riassegna a</value>
+    <comment>Il testo a discesa per la riassegnazione di un biglietto che è stato precedentemente chiuso.</comment>
   </data>
   <data name="SMEUserChatMessage" xml:space="preserve">
     <value>RE: {0}</value>
-    <comment>The {0} is the placeholder for the title that the user had provided when asking an expert.</comment>
+    <comment>{0} è il segnaposto per il titolo che l utente ha fornito quando ha chiesto a un esperto.</comment>
   </data>
   <data name="AssignToMeActionChoiceTitle" xml:space="preserve">
-    <value>Assign to me</value>
-    <comment>The dropdown choice for "Assign to me" for the SME ticket status is being updated</comment>
+    <value>Assegna all'utente corrente</value>
+    <comment>La scelta a discesa per Assegnazione per lo stato del biglietto PMI è in fase di aggiornamento!</comment>
   </data>
   <data name="CloseActionChoiceTitle" xml:space="preserve">
-    <value>Close</value>
-    <comment>The dropdown choice for "Close" for when the SME ticket status is being updated</comment>
+    <value>Chiudi</value>
+    <comment>La scelta a discesa per Chiudi per quando viene aggiornato lo stato del biglietto PMI!</comment>
   </data>
   <data name="ReopenActionChoiceTitle" xml:space="preserve">
-    <value>Reopen</value>
-    <comment>The dropdown choice for "Reopen" for when the SME ticket status is being updated from the closed status.</comment>
+    <value>Riapri</value>
+    <comment>La scelta a discesa per Riaprire per quando lo stato del biglietto PMI viene aggiornato dallo stato chiuso.</comment>
   </data>
   <data name="ReopenAssignToMeActionChoiceTitle" xml:space="preserve">
-    <value>Reopen and assign to me</value>
-    <comment>The dropdown choice for "Reopen and assign to me" for when the SME ticket status is being updated from the closed state.</comment>
+    <value>Riapri e assegnami</value>
+    <comment>La scelta a discesa per Riaprire e Assegnare quando lo stato del ticket PMI viene aggiornato dallo stato chiuso.</comment>
   </data>
   <data name="UnassignActionChoiceTitle" xml:space="preserve">
-    <value>Unassign</value>
-    <comment>The dropdown choice for "Unassign" for when the SME ticket status is being updated</comment>
+    <value>Annulla assegnazione</value>
+    <comment>La scelta a discesa per Annullare assegnazionezione per quando lo stato del ticket SME viene aggiornato!</comment>
   </data>
   <data name="SMETicketAssignedStatus" xml:space="preserve">
-    <value>Assigned to {0}</value>
-    <comment>This value represents the SME Ticket in the Assigned status - {0} represents the SME User to whom a ticket has been assigned</comment>
+    <value>Assegnato a: {0}</value>   
+    <comment>Questo valore rappresenta il ticket PMI nello stato Assegnato - {0} rappresenta l utente SME a cui è stato assegnato un ticket!</comment>
   </data>
   <data name="SMETicketClosedStatus" xml:space="preserve">
-    <value>Closed</value>
-    <comment>This value represents the SME Ticket in the Closed status</comment>
+    <value>Chiuso</value>   
+    <comment>Questo valore rappresenta il ticket PMI nello stato Chiuso!</comment>
   </data>
   <data name="SMETicketUnassignedStatus" xml:space="preserve">
-    <value>Unassigned</value>
-    <comment>This value represents the SME Ticket in the Unassigned status</comment>
+    <value>Non assegnato</value>
+    <comment>Questo valore rappresenta il biglietto PMI nello stato Non assegnato!</comment>
   </data>
   <data name="AskAnExpertSubheaderText" xml:space="preserve">
-    <value>The expert will respond to you directly with a chat message.</value>
-    <comment>Ask en expert card subtitle text:lets the user know that SME team member can directly chat with the requester.</comment>
+    <value>Un esperto ti risponderà direttamente con un messaggio in chat.</value>
+    <comment>Chiedi al testo dei sottotitoli della carta per esperti: informa l utente che il membro del team PMI può chattare direttamente con il richiedente.</comment>
   </data>
   <data name="DescriptionFact" xml:space="preserve">
-    <value>Description:</value>
-    <comment>Available factset in user notification and SME facing cards.</comment>
+    <value>Descrizione</value>
+    <comment>Factset disponibili nelle notifiche degli utenti e nelle carte di fronte alle PMI.</comment>
   </data>
   <data name="FeedbackRatingRequired" xml:space="preserve">
-    <value>Feedback (Required)</value>
-    <comment>Feedback(Required): label for the feedback rating dropdown.</comment>
+    <value>Feedback (richiesto)</value>
+    <comment>Feedback (obbligatorio): etichetta per il menu a discesa della valutazione del feedback.</comment>
   </data>
   <data name="HelpfulRatingText" xml:space="preserve">
-    <value>Helpful</value>
-    <comment>Helpful: available feedback rating scale.</comment>
+    <value>Utile</value>
+    <comment>Utile: scala di valutazione del feedback disponibile.</comment>
   </data>
   <data name="NeedsImprovementRatingText" xml:space="preserve">
-    <value>Needs Improvement</value>
-    <comment>Needs improvement: available feedback rating scale.</comment>
+    <value>Necessario miglioramento</value>
+    <comment>Miglioramento delle esigenze: scala di valutazione del feedback disponibile.</comment>
   </data>
   <data name="RatingTitle" xml:space="preserve">
-    <value>Rating</value>
-    <comment>Rating fact is used in SME facing feedback card to show the rating submitted by the user from the rating dropdown in share feedback card.</comment>
+    <value>Valutazione</value>
+    <comment>La valutazione viene utilizzata nella scheda di feedback rivolta alle PMI per mostrare la valutazione inviata dall utente dal menu a discesa della valutazione nella scheda di feedback condivisa.</comment>
   </data>
   <data name="RatingMandatoryText" xml:space="preserve">
-    <value>Rating is mandatory</value>
-    <comment>Rating is mandatory , a warning message to the user when rating is not submitted in share feedback activity.</comment>
+    <value>La valutazione è obbligatoria</value>
+    <comment>La valutazione è obbligatoria, un messaggio di avviso per l utente quando la valutazione non viene inviata nell attività di feedback della condivisione.</comment>
   </data>
   <data name="TakeATourButtonText" xml:space="preserve">
-    <value>Take a tour</value>
-    <comment>Take a tour button available for the users on welcome card, through which user can take a tour on bot functionalities in personal scope. </comment>
+    <value>Presentazione</value>
+    <comment>Prendi un pulsante tour disponibile per gli utenti sulla carta di benvenuto, attraverso il quale l utente può fare un tour sulle funzionalità dei bot nell ambito personale. !</comment>
   </data>
   <data name="TitleFact" xml:space="preserve">
-    <value>Title:</value>
-    <comment>Title fact is used to show the title entered by the user for his inquiry.</comment>
+    <value>Titolo</value>
+    <comment>Il titolo è usato per mostrare il titolo inserito dall utente per la sua richiesta.</comment>
   </data>
   <data name="TitleRequiredText" xml:space="preserve">
-    <value>Title (Required)</value>
-    <comment>Title(Required): label of the title text box.</comment>
+    <value>Titolo (obbligatorio)</value>
+    <comment>Titolo (obbligatorio): etichetta della casella di testo del titolo.</comment>
   </data>
   <data name="NotHelpfulRatingText" xml:space="preserve">
-    <value>Not helpful</value>
-    <comment>Unhelpful: available feedback rating scale.</comment>
+    <value>Tocca qui se la risposta non è stata utile</value>
+    <comment>Inutile: scala di valutazione del feedback disponibile.</comment>
   </data>
   <data name="ViewArticleButtonText" xml:space="preserve">
-    <value>View article</value>
-    <comment>The necessary string for the view article button</comment>
+    <value>Visualizza articolo</value>
+    <comment>La stringa necessaria per il pulsante Visualizza articolo!</comment>
   </data>
   <data name="SMEFeedbackHeaderText" xml:space="preserve">
-    <value>Feedback</value>
-    <comment>Title text for SME facing feedback card.</comment>
+    <value>Commenti e suggerimenti</value>
+    <comment>Testo del titolo per la scheda di feedback rivolta alle PMI.</comment>
   </data>
 </root>
